@@ -1,5 +1,14 @@
 {
   "projects": {
     "default": "pwa-pilipinas-development"
+  },
+  "targets": {
+    "pwa-pilipinas-development": {
+      "hosting": {
+        "stest": [
+          "stest-pwapilipinas-development"
+        ]
+      }
+    }
   }
 }
