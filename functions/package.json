@@ -18,7 +18,8 @@
     "express": "^4.17.1",
     "firebase-admin": "^9.2.0",
     "firebase-functions": "^3.11.0",
-    "isbot": "^3.0.23"
+    "isbot": "^3.0.23",
+    "prerender-node": "^3.2.5"
   },
   "devDependencies": {
     "@types/cors": "^2.8.9",
